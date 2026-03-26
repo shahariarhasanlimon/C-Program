@@ -1,1 +1,1 @@
-Enter the size of the array: Enter the elements of the array: Enter the position where you want to delete an element: Array after deletion: 10 20 256 64 
+Enter the size of the array: Enter the elements of the array: Array after reversing: 0 64 256 20 10 
