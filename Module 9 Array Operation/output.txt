@@ -1,1 +1,1 @@
-Enter the size of the array: Enter the elements of the array: Array after reversing: 0 64 256 20 10 
+Enter the size of the arrays: Enter the elements of the first array: Elements of the second array: 12 11 27175733 31493 26991968 
