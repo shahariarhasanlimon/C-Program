@@ -1,1 +1,2 @@
-ghlds 
+Length of the string: 13
+Count of characters in the string: 13
