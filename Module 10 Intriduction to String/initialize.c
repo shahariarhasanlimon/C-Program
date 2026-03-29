@@ -6,7 +6,8 @@ int main() {
     // printf("%s\n", str); // Print the string using %s format specifier
     // return 0;
     char a [5] = {'H', 'e', 'l', 'l', 'o'}; // Initialize an array of characters
-    // for(int i = 0; i < 5; i++) {
+    int sz = sizeof(a) / sizeof(char); // Calculate the number of elements in the array
+    // for(int i = 0; i < 5; i++)
     //     printf("%c ", a[i]); // Print the elements of the array
     // }
     printf("%s", a); // Print the array as a string (undefined behavior since it's not null-terminated)
