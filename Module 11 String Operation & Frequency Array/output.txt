@@ -1,1 +1,1 @@
-Copied string is: €
+String 1 is greater than String 2
