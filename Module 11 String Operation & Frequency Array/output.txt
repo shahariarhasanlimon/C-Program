@@ -1,1 +1,1 @@
-Concatenated string: toybat bat
+Concatenated string: 135 5
