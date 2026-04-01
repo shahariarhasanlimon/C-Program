@@ -9,18 +9,17 @@
 #include <math.h>
 int main() {
     double num1, num2;
-    
     printf("Enter a floating-point number: ");
     scanf("%lf", &num1);
-    
     printf("Enter another floating-point number: ");
     scanf("%lf", &num2);
-    
-    printf("Floor of %.2lf is %.2lf\n", num1, floor(num1));
-    printf("Ceil of %.2lf is %.2lf\n", num1, ceil(num1));
-    printf("%.2lf raised to the power of %.2lf is %.2lf\n", num1, num2, pow(num1, num2));
-    printf("Square root of %.2lf is %.2lf\n", num1, sqrt(num1));
-    printf("Absolute value of %.2lf is %.2lf\n", num1, fabs(num1));
-    
+
+    printf("Floor of %.2f: %.2f\n", num1, floor(num1));
+    printf("Ceil of %.2f: %.2f\n", num1, ceil(num1));
+    printf("%.2f raised to the power of %.2f: %.2f\n", num1, num2, pow(num1, num2));
+    printf("Square root of %.2f: %.2f\n", num1, sqrt(num1));
+    printf("Absolute value of -5: %d\n", abs(-5));
+    printf("Absolute value of -3.14: %.2f\n", fabs(-3.14));
+
     return 0;
 }
