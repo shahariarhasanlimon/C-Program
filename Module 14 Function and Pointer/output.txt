@@ -1,0 +1,2 @@
+Inside functionA, x = 10
+Inside functionB, x = 20
