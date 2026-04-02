@@ -1,5 +1,2 @@
-Value of a: 10
-Address of a: 0x7ffd8cbbcb1c
-Value of ptr: 0x7ffd8cbbcb1c
-Value pointed to by ptr: 10
-New value of a: 20
+Value of a before increment: 5
+Value of a after increment: 5
