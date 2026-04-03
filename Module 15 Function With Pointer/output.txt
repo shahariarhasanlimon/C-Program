@@ -1,2 +1,2 @@
-Value of a before increment: 5
-Value of a after increment: 5
+Before swapping: x = 5, y = 10
+After swapping: x = 10, y = 5
