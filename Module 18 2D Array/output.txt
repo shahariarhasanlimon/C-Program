@@ -1,4 +1,9 @@
-Enter elements for a 2x3 matrix:
-Element [0][0]: Element [0][1]: Element [0][2]: Element [1][0]: Element [1][1]: Element [1][2]: You entered the following matrix:
-6 0 918559472 
-29112 829797888 32764 
+2D Array (Matrix) printed by Row:
+1 2 3 4 
+5 6 7 8 
+9 10 11 12 
+2D Array (Matrix) printed by Column:
+1 5 9 
+2 6 10 
+3 7 11 
+4 8 12 
