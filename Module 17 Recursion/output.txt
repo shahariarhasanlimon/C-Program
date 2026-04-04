@@ -1,3 +1,1 @@
-Printing numbers from 5 to 1 in reverse way:
-1 2 3 4 5 
-Done!
+The length of the string "Hello, World!" is: 13
