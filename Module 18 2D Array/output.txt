@@ -1,2 +1,5 @@
-Secondary Diagonal of the Matrix:
-4 7 10 13 
+Scalar Matrix (4x4):
+5 0 0 0 
+0 5 0 0 
+0 0 5 0 
+0 0 0 5 
