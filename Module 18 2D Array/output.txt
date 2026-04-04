@@ -1,8 +1,2 @@
-Zero Matrix (3x3):
-0 0 0 
-0 0 0 
-0 0 0 
-Null Matrix (3x3):
-0 0 0 
-0 0 0 
-0 0 0 
+Secondary Diagonal of the Matrix:
+4 7 10 13 
